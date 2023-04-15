@@ -1,0 +1,10 @@
+**el trabajo se sube a github y se van haciendo los comits
+
+**el programa ayuda a programar el tiempo
+**el programa sugiere horaio para estudiar
+
+funcion1: registrar informacion curso
+funcion2: gestionar informacion horario
+funcion3: gestionar jornadas de estudio
+archivo1 con: informacion curso, codigo, nombre, trabajo docente, trabajo autonomo, creditos
+archivo2 con: materia, dia y hora
