@@ -1,0 +1,39 @@
+2567101,Introfisica,4,5,3
+2559131,calcul_dif,4,5,3
+2559101,Alg_y_trig,4,5,3
+2559121,geovector_analitic,4,5,3
+2570101,informatica_I     ,4,8,4
+2540101,ingles_I ,4,0,1
+2565101,vivamos_la_U ,2,1,1
+2567201,fisica_macainica,4,5,3
+2559231,calculo_integral,4,5,3
+2559221,algebra_lineal,4,5,3
+2569231,intro_ing_teleco,2,1,1
+2570201,informatica_II,4,8,4
+2540201,ingles_II,4,0,1
+2564101,lectoescritura,4,5,3
+2567301,fisica_ondas,4,5,3
+2559331,calculo_vectorial,4,5,3
+2570301,ecuaciones_dif,4,5,3
+2570306,circuitos_I,4,8,4
+2569331,probabil_estadistica,4,5,3
+2540301,ingles_III,4,0,1
+2566351,form.ciud.const,2,1,1
+2567311,fisica_campos,4,5,3
+2570401,mates_especiales,4,5,3
+2570416,metods_numericos,4,5,3
+2570406,circuitos_II,4,8,4
+2569431.referenciacion_geo,3,0,1
+2540401,ingles_IV,4,0,1
+2567501,lab_fisica
+2570516,electromagnetismo
+2570501,fisica_estadosolido
+2569531,funda_electr.analoga
+2569536,funda_elctr.digital
+2540501,ingles_V
+2569646,materiales_ing
+2569631,trat_señales_I
+2569632,teoria_info
+2569641,teoria_teletrafico
+2569636,redes_I
+2540501,ingles_VI
